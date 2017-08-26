@@ -1,4 +1,4 @@
-# [title](readme.md)
+# [title](README.md)
 
 ## second page
 
